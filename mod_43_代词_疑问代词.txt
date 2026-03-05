@@ -1,0 +1,3 @@
+{"num": 6, "en": "How are you?", "hu": "Hogy vagy?", "en_sent": "Good morning, how are you?", "hu_sent": "Jó reggelt, hogy vagy?"},
+{"num": 1749, "en": "off", "hu": "ki, le", "en_sent": "turn off the light", "hu_sent": "lekapcsolja a villanyt"},
+{"num": 1763, "en": "out", "hu": "ki", "en_sent": "go out", "hu_sent": "kimegy"},

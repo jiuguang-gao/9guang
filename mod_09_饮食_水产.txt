@@ -1,0 +1,4 @@
+{"num": 70, "en": "fish", "hu": "hal", "en_sent": "Fresh fish.", "hu_sent": "Friss hal."},
+{"num": 197, "en": "shrimp", "hu": "garnélarák", "en_sent": "Fried shrimp.", "hu_sent": "Sült garnélarák."},
+{"num": 1246, "en": "fish", "hu": "hal", "en_sent": "grilled fish", "hu_sent": "grillezett hal"},
+{"num": 1247, "en": "shrimp", "hu": "garatnéla", "en_sent": "steamed shrimp", "hu_sent": "párolt garnéla"},

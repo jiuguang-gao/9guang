@@ -1,0 +1,4 @@
+{"num": 16, "en": "easy", "hu": "könnyű", "en_sent": "The test was easy.", "hu_sent": "Könnyű volt a teszt."},
+{"num": 17, "en": "difficult", "hu": "nehéz", "en_sent": "The language is difficult.", "hu_sent": "Nehéz a nyelv."},
+{"num": 823, "en": "light", "hu": "könnyű", "en_sent": "light as a feather", "hu_sent": "könnyű, mint a tollpihe"},
+{"num": 1522, "en": "difficult", "hu": "nehéz", "en_sent": "difficult task", "hu_sent": "nehéz feladat."},

@@ -1,0 +1,4 @@
+{"num": 578, "en": "hundred thousand", "hu": "százezer", "en_sent": "One hundred thousand people.", "hu_sent": "Százezer ember."},
+{"num": 579, "en": "million", "hu": "millió", "en_sent": "One million euros.", "hu_sent": "Egy millió euró."},
+{"num": 1698, "en": "million", "hu": "millió", "en_sent": "one million", "hu_sent": "egy millió"},
+{"num": 1743, "en": "number", "hu": "szám", "en_sent": "phone number", "hu_sent": "telefonszám"},

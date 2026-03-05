@@ -1,0 +1,6 @@
+{"num": 1624, "en": "it", "hu": "ez, az", "en_sent": "It is raining.", "hu_sent": "Esik az eső."},
+{"num": 1950, "en": "that", "hu": "az", "en_sent": "What is that?", "hu_sent": "Mi az?"},
+{"num": 1951, "en": "the", "hu": "a, az", "en_sent": "the book", "hu_sent": "a könyv"},
+{"num": 1953, "en": "these", "hu": "ezek", "en_sent": "these shoes", "hu_sent": "ezek a cipők"},
+{"num": 1960, "en": "this", "hu": "ez", "en_sent": "This is my house.", "hu_sent": "Ez az én házam."},
+{"num": 1961, "en": "those", "hu": "azok", "en_sent": "those flowers", "hu_sent": "azok a virágok"},

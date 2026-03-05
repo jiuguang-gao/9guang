@@ -1,0 +1,4 @@
+{"num": 7, "en": "Yes.", "hu": "Igen.", "en_sent": "Yes, it’s very good.", "hu_sent": "Igen, ez nagyon jó."},
+{"num": 8, "en": "No.", "hu": "Nem.", "en_sent": "No, thank you.", "hu_sent": "Nem, köszönöm."},
+{"num": 1733, "en": "no", "hu": "nem", "en_sent": "No, thank you.", "hu_sent": "Nem, köszönöm."},
+{"num": 1737, "en": "not", "hu": "nem (tagadószó)", "en_sent": "not at all", "hu_sent": "egyáltalán nem"},

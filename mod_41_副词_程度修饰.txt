@@ -1,0 +1,1 @@
+{"num": 1978, "en": "too", "hu": "is / túlságosan", "en_sent": "too expensive", "hu_sent": "túl drága"},
